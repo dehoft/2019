@@ -1,0 +1,30 @@
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\bin\Debug\Spamo_tikrintojas.exe.config
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\bin\Debug\Spamo_tikrintojas.exe
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\bin\Debug\Spamo_tikrintojas.pdb
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csprojAssemblyReference.cache
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csproj.CoreCompileInputs.cache
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.exe
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.pdb
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\bin\Debug\ExcelLibrary.dll
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csproj.CopyComplete
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csproj.ResolveComReference.cache
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\bin\Debug\Spamo_tikrintojas.exe.config
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\bin\Debug\Spamo_tikrintojas.exe
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\bin\Debug\Spamo_tikrintojas.pdb
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\bin\Debug\ExcelLibrary.dll
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csprojAssemblyReference.cache
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csproj.ResolveComReference.cache
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csproj.CoreCompileInputs.cache
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csproj.CopyComplete
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.exe
+C:\Users\ramsk\OneDrive - Kaunas University of Technology\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.pdb
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\bin\Debug\Spamo_tikrintojas.exe.config
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\bin\Debug\Spamo_tikrintojas.exe
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\bin\Debug\Spamo_tikrintojas.pdb
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\bin\Debug\ExcelLibrary.dll
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csprojAssemblyReference.cache
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csproj.ResolveComReference.cache
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.csproj.CopyComplete
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.exe
+C:\Users\Edvinas\Desktop\Intelektikos pagrindai\L4\Spamo_tikrintojas - Copy\Spamo_tikrintojas\obj\Debug\Spamo_tikrintojas.pdb
