@@ -41,7 +41,7 @@ namespace Spamo_tikrintojas
         //static public List<Word> table = new List<Word>();
         static public Dictionary<string, Word> table = new Dictionary<string, Word>();
         static public List<float> slenkstis = new List<float>();
-        const float DefSlenkstis = 0.2f; // ??
+        const float DefSlenkstis = 0.3f; // ??
         static public List<int> leksemuSk = new List<int>();
         const int DefLeksemuSk = 80; // ??
         static public List<float> tikimybeNaujam = new List<float>();
