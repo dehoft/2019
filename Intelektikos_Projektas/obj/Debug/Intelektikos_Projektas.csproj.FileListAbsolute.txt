@@ -1,0 +1,51 @@
+C:\Users\Edvinas\source\repos\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe.config
+C:\Users\Edvinas\source\repos\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe
+C:\Users\Edvinas\source\repos\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.pdb
+C:\Users\Edvinas\source\repos\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csprojAssemblyReference.cache
+C:\Users\Edvinas\source\repos\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\source\repos\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.exe
+C:\Users\Edvinas\source\repos\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.pdb
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe.config
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.pdb
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csprojAssemblyReference.cache
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.exe
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.pdb
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\bin\Debug\ConsoleTableExt.dll
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csproj.CopyComplete
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\bin\Debug\MathNet.Numerics.dll
+C:\Users\Edvinas\Intelektikos projektas\Intelektikos_Projektas\bin\Debug\MathNet.Numerics.xml
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csprojAssemblyReference.cache
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csproj.CoreCompileInputs.cache
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.exe
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.pdb
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe.config
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.pdb
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\ConsoleTableExt.dll
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\MathNet.Numerics.dll
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\MathNet.Numerics.xml
+C:\Users\Arvis\Desktop\intelektikaPRoj\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csproj.CopyComplete
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe.config
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.pdb
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\ConsoleTableExt.dll
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\MathNet.Numerics.dll
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\bin\Debug\MathNet.Numerics.xml
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csprojAssemblyReference.cache
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csproj.CoreCompileInputs.cache
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csproj.CopyComplete
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.exe
+C:\Users\Arvis\Desktop\INTELEKTIKA\Intelektikos-Projektas\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.pdb
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe.config
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.exe
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\bin\Debug\Intelektikos_Projektas.pdb
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\bin\Debug\ConsoleTableExt.dll
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\bin\Debug\MathNet.Numerics.dll
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\bin\Debug\MathNet.Numerics.xml
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csprojAssemblyReference.cache
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.csproj.CopyComplete
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.exe
+C:\Users\Edvinas\Desktop\New folder\Intelektika\Intelektikos_Projektas\obj\Debug\Intelektikos_Projektas.pdb
